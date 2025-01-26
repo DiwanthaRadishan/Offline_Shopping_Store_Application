@@ -1,0 +1,30 @@
+C:\Users\DIWANTHA\Desktop\Inventory_Management_System\Shopping Store Mangement System\Shopping Store Mangement System\bin\Debug\inventory_db.mdf
+C:\Users\DIWANTHA\Desktop\Inventory_Management_System\Shopping Store Mangement System\Shopping Store Mangement System\bin\Debug\Shopping Store Mangement System.exe.config
+C:\Users\DIWANTHA\Desktop\Inventory_Management_System\Shopping Store Mangement System\Shopping Store Mangement System\bin\Debug\Shopping Store Mangement System.exe
+C:\Users\DIWANTHA\Desktop\Inventory_Management_System\Shopping Store Mangement System\Shopping Store Mangement System\bin\Debug\Shopping Store Mangement System.pdb
+C:\Users\DIWANTHA\Desktop\Inventory_Management_System\Shopping Store Mangement System\Shopping Store Mangement System\obj\Debug\Shopping Store Mangement System.csproj.AssemblyReference.cache
+C:\Users\DIWANTHA\Desktop\Inventory_Management_System\Shopping Store Mangement System\Shopping Store Mangement System\obj\Debug\Shopping_Store_Mangement_System.Add_Admin.resources
+C:\Users\DIWANTHA\Desktop\Inventory_Management_System\Shopping Store Mangement System\Shopping Store Mangement System\obj\Debug\Shopping_Store_Mangement_System.Create_Acount.resources
+C:\Users\DIWANTHA\Desktop\Inventory_Management_System\Shopping Store Mangement System\Shopping Store Mangement System\obj\Debug\Shopping_Store_Mangement_System.login.resources
+C:\Users\DIWANTHA\Desktop\Inventory_Management_System\Shopping Store Mangement System\Shopping Store Mangement System\obj\Debug\Shopping_Store_Mangement_System.managerDetails.resources
+C:\Users\DIWANTHA\Desktop\Inventory_Management_System\Shopping Store Mangement System\Shopping Store Mangement System\obj\Debug\Shopping_Store_Mangement_System.OrderHistory.resources
+C:\Users\DIWANTHA\Desktop\Inventory_Management_System\Shopping Store Mangement System\Shopping Store Mangement System\obj\Debug\Shopping_Store_Mangement_System.Order_management.resources
+C:\Users\DIWANTHA\Desktop\Inventory_Management_System\Shopping Store Mangement System\Shopping Store Mangement System\obj\Debug\Shopping_Store_Mangement_System.shopping_store.resources
+C:\Users\DIWANTHA\Desktop\Inventory_Management_System\Shopping Store Mangement System\Shopping Store Mangement System\obj\Debug\Shopping_Store_Mangement_System.SplashForm.resources
+C:\Users\DIWANTHA\Desktop\Inventory_Management_System\Shopping Store Mangement System\Shopping Store Mangement System\obj\Debug\Shopping_Store_Mangement_System.Store_mangement.resources
+C:\Users\DIWANTHA\Desktop\Inventory_Management_System\Shopping Store Mangement System\Shopping Store Mangement System\obj\Debug\Shopping_Store_Mangement_System.profile.resources
+C:\Users\DIWANTHA\Desktop\Inventory_Management_System\Shopping Store Mangement System\Shopping Store Mangement System\obj\Debug\Shopping_Store_Mangement_System.Properties.Resources.resources
+C:\Users\DIWANTHA\Desktop\Inventory_Management_System\Shopping Store Mangement System\Shopping Store Mangement System\obj\Debug\Shopping_Store_Mangement_System.Inventory_management.resources
+C:\Users\DIWANTHA\Desktop\Inventory_Management_System\Shopping Store Mangement System\Shopping Store Mangement System\obj\Debug\Shopping_Store_Mangement_System.ToReview.resources
+C:\Users\DIWANTHA\Desktop\Inventory_Management_System\Shopping Store Mangement System\Shopping Store Mangement System\obj\Debug\Shopping_Store_Mangement_System.User_management.resources
+C:\Users\DIWANTHA\Desktop\Inventory_Management_System\Shopping Store Mangement System\Shopping Store Mangement System\obj\Debug\Shopping_Store_Mangement_System.User_order_history.resources
+C:\Users\DIWANTHA\Desktop\Inventory_Management_System\Shopping Store Mangement System\Shopping Store Mangement System\obj\Debug\Shopping_Store_Mangement_System.View_My_Orders.resources
+C:\Users\DIWANTHA\Desktop\Inventory_Management_System\Shopping Store Mangement System\Shopping Store Mangement System\obj\Debug\Shopping Store Mangement System.csproj.GenerateResource.cache
+C:\Users\DIWANTHA\Desktop\Inventory_Management_System\Shopping Store Mangement System\Shopping Store Mangement System\obj\Debug\Shopping Store Mangement System.csproj.CoreCompileInputs.cache
+C:\Users\DIWANTHA\Desktop\Inventory_Management_System\Shopping Store Mangement System\Shopping Store Mangement System\obj\Debug\Shopping Store Mangement System.exe
+C:\Users\DIWANTHA\Desktop\Inventory_Management_System\Shopping Store Mangement System\Shopping Store Mangement System\obj\Debug\Shopping Store Mangement System.pdb
+C:\Users\DIWANTHA\Desktop\Inventory_Management_System\Shopping Store Mangement System\Shopping Store Mangement System\bin\Debug\Shopping Store Mangement System.exe.manifest
+C:\Users\DIWANTHA\Desktop\Inventory_Management_System\Shopping Store Mangement System\Shopping Store Mangement System\bin\Debug\Shopping Store Mangement System.application
+C:\Users\DIWANTHA\Desktop\Inventory_Management_System\Shopping Store Mangement System\Shopping Store Mangement System\obj\Debug\Shopping Store Mangement System.TrustInfo.xml
+C:\Users\DIWANTHA\Desktop\Inventory_Management_System\Shopping Store Mangement System\Shopping Store Mangement System\obj\Debug\Shopping Store Mangement System.exe.manifest
+C:\Users\DIWANTHA\Desktop\Inventory_Management_System\Shopping Store Mangement System\Shopping Store Mangement System\obj\Debug\Shopping Store Mangement System.application

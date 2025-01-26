@@ -1,0 +1,269 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C573CE59-1F33-41FD-9314-13182D27819D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Shopping_Store_Mangement_System</RootNamespace>
+    <AssemblyName>Shopping Store Mangement System</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\DIWANTHA\Desktop\Shopping Store software APK\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ProductName>store Management system</ProductName>
+    <PublisherName>Diwantha Radishan</PublisherName>
+    <SuiteName>Diwa rad</SuiteName>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Shopping_Store_Mangement_System.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>C980BEA01A177ED8119A08335D307F961FD5BA61</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Shopping Store Mangement System_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Add_Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_Admin.Designer.cs">
+      <DependentUpon>Add_Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Create_Acount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Create_Acount.Designer.cs">
+      <DependentUpon>Create_Acount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="managerDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="managerDetails.Designer.cs">
+      <DependentUpon>managerDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OrderHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OrderHistory.Designer.cs">
+      <DependentUpon>OrderHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Order_management.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Order_management.Designer.cs">
+      <DependentUpon>Order_management.cs</DependentUpon>
+    </Compile>
+    <Compile Include="shopping_store.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="shopping_store.Designer.cs">
+      <DependentUpon>shopping_store.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SplashForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SplashForm.Designer.cs">
+      <DependentUpon>SplashForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Store_mangement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Store_mangement.Designer.cs">
+      <DependentUpon>Store_mangement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="profile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="profile.Designer.cs">
+      <DependentUpon>profile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Inventory_management.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inventory_management.Designer.cs">
+      <DependentUpon>Inventory_management.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ToReview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ToReview.Designer.cs">
+      <DependentUpon>ToReview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User_management.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User_management.Designer.cs">
+      <DependentUpon>User_management.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User_order_history.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User_order_history.Designer.cs">
+      <DependentUpon>User_order_history.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_My_Orders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_My_Orders.Designer.cs">
+      <DependentUpon>View_My_Orders.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Add_Admin.resx">
+      <DependentUpon>Add_Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Create_Acount.resx">
+      <DependentUpon>Create_Acount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="managerDetails.resx">
+      <DependentUpon>managerDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrderHistory.resx">
+      <DependentUpon>OrderHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Order_management.resx">
+      <DependentUpon>Order_management.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="shopping_store.resx">
+      <DependentUpon>shopping_store.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SplashForm.resx">
+      <DependentUpon>SplashForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Store_mangement.resx">
+      <DependentUpon>Store_mangement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="profile.resx">
+      <DependentUpon>profile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Inventory_management.resx">
+      <DependentUpon>Inventory_management.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ToReview.resx">
+      <DependentUpon>ToReview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User_management.resx">
+      <DependentUpon>User_management.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User_order_history.resx">
+      <DependentUpon>User_order_history.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_My_Orders.resx">
+      <DependentUpon>View_My_Orders.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Shopping Store Mangement System_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="inventory_db.mdf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
